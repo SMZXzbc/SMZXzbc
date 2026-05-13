@@ -63,12 +63,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=smzxzbc&show_icons=true&theme=dark&hide_border=true" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smzxzbc&layout=compact&theme=dark&hide_border=true" height="180" />
+<!-- 使用 github-readme-stats 备用域名 -->
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SMZXzbc&show_icons=true&theme=dark&hide_border=true&count_private=true" height="180" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SMZXzbc&layout=compact&theme=dark&hide_border=true" height="180" />
 
 <br/><br/>
 
-<!-- 贡献网格蛇动画 -->
+<!-- 蛇动画 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SMZXzbc/SMZXzbc/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SMZXzbc/SMZXzbc/output/github-contribution-grid-snake.svg" />
@@ -76,6 +77,7 @@
 </picture>
 
 </div>
+
 
 ---
 
