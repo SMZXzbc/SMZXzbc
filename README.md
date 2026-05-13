@@ -6,7 +6,7 @@
 </a>
 
 <!-- 个性签名 -->
-<p><i>🚀 致力于用 AI 技术赋能教育与学习</i></p>
+<p><i>🚀 Hello World ! ! ! </i></p>
 
 <!-- 社交/联系图标 -->
 <a href="https://github.com/SMZXzbc">
