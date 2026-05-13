@@ -1,16 +1,98 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**SMZXzbc/SMZXzbc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- 动态打字效果 -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+SMZXzbc;AI+%2B+Education+Developer;Machine+Learning+Enthusiast;LeetCode+%26+Kaggle+Explorer" alt="Typing SVG" />
+</a>
 
-Here are some ideas to get you started:
+<!-- 个性签名 -->
+<p><i>🚀 致力于用 AI 技术赋能教育与学习</i></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- 社交/联系图标 -->
+<a href="https://github.com/SMZXzbc">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+- 🎓 热爱 **AI + 教育** 的开发者
+- 🤖 专注于 **多 Agent 协作系统** 与 **智能学习工具**
+- 📊 机器学习竞赛 & 数据科学实践者
+- 📝 持续学习，记录技术成长轨迹
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 📌 Featured Projects
+
+<div align="center">
+
+| 项目 | 描述 | 技术栈 |
+|------|------|--------|
+| 🤖 [academic-assistant-system](https://github.com/SMZXzbc/academic-assistant-system) | 多 Agent 协作智能学术助教系统 | Python, Multi-Agent |
+| 🎯 [leetcode-ai-tutor](https://github.com/SMZXzbc/leetcode-ai-tutor) | AI 辅助 LeetCode 刷题工具，基于 MiMo API | Python, API |
+| 🚢 [kaggle-titanic](https://github.com/SMZXzbc/kaggle-titanic) | Kaggle Titanic 竞赛 - 我的第一个 ML 项目 | Jupyter, ML |
+| 📚 [machine-learning-notes](https://github.com/SMZXzbc/machine-learning-notes) | 机器学习学习笔记 - NumPy, Pandas, Matplotlib, Scikit-learn | Jupyter, ML |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SMZXzbc&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMZXzbc&layout=compact&theme=github_dark&hide_border=true" height="180" />
+
+<br/><br/>
+
+<!-- 贡献网格蛇动画 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SMZXzbc/SMZXzbc/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SMZXzbc/SMZXzbc/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/SMZXzbc/SMZXzbc/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SMZXzbc&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=SMZXzbc&color=blue&style=flat-square" alt="Profile views" />
+
+**⭐ Star 我的项目，一起交流学习！**
+
+</div>
