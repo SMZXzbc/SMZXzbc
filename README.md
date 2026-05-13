@@ -58,16 +58,18 @@
 </div>
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<!-- 使用 github-readme-stats 备用域名 -->
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SMZXzbc&show_icons=true&theme=dark&hide_border=true&count_private=true" height="180" />
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SMZXzbc&layout=compact&theme=dark&hide_border=true" height="180" />
+<!-- 文字统计 -->
+<p>
+  <img src="https://img.shields.io/badge/⭐%20Stars-4-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📦%20Repos-5-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📝%20Commits-13-green?style=for-the-badge" />
+</p>
 
-<br/><br/>
+<br/>
 
 <!-- 蛇动画 -->
 <picture>
