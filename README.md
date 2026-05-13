@@ -80,7 +80,15 @@
 
 </div>
 
+---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=SMZXzbc&theme=darkhub&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 ---
 
 ## 📈 Activity Graph
